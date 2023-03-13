@@ -1,0 +1,13 @@
+body, html {
+  font-family: 'Golos Text', sans-serif;
+  background-color: #FAF9F6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
